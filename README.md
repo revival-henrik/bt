@@ -1,6 +1,12 @@
-# Börjes – prototyp
+# Börjes – PROTOTYP
 
-Statisk kopia av [borjes.se](https://borjes.se), sparad 2026-11-14, som utgångspunkt för en ny hemsida.
+> ⚠️ **Detta är en prototyp, inte Börjes riktiga webbshop.**
+> Inga köp, inloggningar eller beställningar kan göras här.
+> Besök [borjes.se](https://borjes.se) för att handla.
+
+Repot innehåller en statisk kopia av [borjes.se](https://borjes.se), sparad 2026-11-14. Den används som utgångspunkt för design- och utvecklingsarbete med en ny hemsida.
+
+Bilder, texter, produktinformation, logotyper och varumärken tillhör Börjes Tingsryd AB och respektive varumärkesägare. Priser och lagerstatus var aktuella när kopian sparades och kan ha ändrats sedan dess.
 
 ## Sidor
 
@@ -13,6 +19,8 @@ Statisk kopia av [borjes.se](https://borjes.se), sparad 2026-11-14, som utgångs
 | `hitta-butik.html` | https://borjes.se/hitta-butik/ |
 
 Bilder, typsnitt och CSS ligger under `assets/`. Länkar mellan de fem sidorna går lokalt; övriga länkar går till live-sajten.
+
+Varje sida har en röd banner längst ner (alltid synlig) som visar att det är en prototyp. Sidorna är också märkta `noindex`, och `robots.txt` stänger ute sökmotorer.
 
 ## Visa lokalt
 

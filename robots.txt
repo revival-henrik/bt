@@ -1,0 +1,3 @@
+# Prototyp – ska inte indexeras
+User-agent: *
+Disallow: /
