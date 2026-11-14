@@ -20,7 +20,7 @@ Bilder, texter, produktinformation, logotyper och varumärken tillhör Börjes T
 
 Bilder, typsnitt och CSS ligger under `assets/`. Länkar mellan de fem sidorna går lokalt; övriga länkar går till live-sajten.
 
-Varje sida har en röd banner längst ner (alltid synlig) som visar att det är en prototyp. Sidorna är också märkta `noindex`, och `robots.txt` stänger ute sökmotorer.
+Logotypen visar "Börjes PROTOTYP", alla länkar till borjes.se pekar om till prototypen, och varje sida har en röd banner längst ner (alltid synlig) som visar att det är en prototyp. Sidorna är också märkta `noindex`, och `robots.txt` stänger ute sökmotorer.
 
 ## Visa lokalt
 
