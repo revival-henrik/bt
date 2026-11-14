@@ -17,8 +17,8 @@ Bilder, typsnitt och CSS ligger under `assets/`. Länkar mellan de fem sidorna g
 ## Visa lokalt
 
 ```sh
-python3 -m http.server 8000
-# öppna http://localhost:8000
+python3 -m http.server 8010   # 8000 används av kyrktorget
+# öppna http://localhost:8010
 ```
 
 ## Att tänka på
