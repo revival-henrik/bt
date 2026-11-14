@@ -23,7 +23,7 @@ Bilder, typsnitt och CSS ligger under `assets/`.
 
 ## Märkning som prototyp
 
-- Logotypen visar "Börjes PROTOTYP".
+- Logotypen visar "Börjes PROTOTYP" med "DEMO" i fet röd text framför.
 - Varje sida har en röd banner längst ner (alltid synlig) och "[PROTOTYP]" i fliktiteln.
 - Det finns inga länkar till Börjes riktiga webbplatser. Länkar till de fem sidorna ovan går till prototypens sidor, och alla andra länkar går till prototypens startsida.
 - Sidorna är märkta `noindex`, och `robots.txt` stänger ute sökmotorer.
